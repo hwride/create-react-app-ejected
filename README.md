@@ -1,3 +1,9 @@
+This is a Create React App project that has been ejected with nothing else done to it.
+
+Ejected 16/08/2020.
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
